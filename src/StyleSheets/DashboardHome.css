@@ -1,0 +1,140 @@
+.text1 {
+    position: absolute;
+    left: 10%;
+    top: 45px;
+    height: 203px;
+    width: 14%;
+    background-color: #ffffff;
+  }
+  .text2 {
+    position: absolute;
+    left: 42%;
+    top: 118px;
+    height: 156px;
+    width: 11%;
+    background-color: #ffffff;
+  }
+
+  .text3 {
+    position: absolute;
+    left: 56%;
+    top: 42px;
+    height: 207px;
+    width: 11%;
+    background-color: #ffffff;
+  }
+
+  .text4 {
+    position: absolute;
+    left: 10%;
+    top: 250px;
+    height: 149px;
+    width: 24%;
+    background-color: #ffffff;
+  }
+
+  .text5 {
+    position: absolute;
+    left: 34%;
+    top: 360px;
+    height: 39px;
+    width: 6%;
+    background-color: #ffffff;
+    margin-left: 2px;
+  }
+
+  .text6 {
+    position: absolute;
+    left: 10%;
+    top: 403px;
+    height: 365px;
+    width: 8.8%;
+    background-color: #ffffff;
+  }
+
+  .text7 {
+    position: absolute;
+    left: 19%;
+    top: 403px;
+    height: 365px;
+    width: 6.3%;
+    background-color: #ffffff;
+  }
+  .text8 {
+    position: absolute;
+    left: 25.5%;
+    top: 403px;
+    height: 365px;
+    width: 18.3%;
+    background-color: #ffffff;
+  }
+  .text9 {
+    position: absolute;
+    left: 53.5%;
+    top: 442px;
+    height: 365px;
+    width: 17.3%;
+    background-color: #ffffff;
+  }
+
+  .text10 {
+    position: absolute;
+    left: 9.5%;
+    top: 772px;
+    height: 195px;
+    width: 4.3%;
+    background-color: #ffffff;
+  }
+
+  .text11 {
+    position: absolute;
+    left: 16.8%;
+    top: 777px;
+    height: 240px;
+    width: 17.3%;
+    background-color: #ffffff;
+  }
+
+  .text12 {
+    position: absolute;
+    left: 34.5%;
+    top: 771px;
+    height: 70px;
+    width: 2.3%;
+    background-color: #ffffff;
+  }
+
+  .text13 {
+    position: absolute;
+    left: 37.7%;
+    top: 772px;
+    height: 195px;
+    width: 6.3%;
+    background-color: #ffffff;
+  }
+
+  .text14 {
+    position: absolute;
+    left: 58.9%;
+    top: 959px;
+    height: 24px;
+    width: 9.3%;
+    background-color: #ffffff;
+  }
+  .text15 {
+    position: absolute;
+    left: 58.9%;
+    top: 997px;
+    height: 24px;
+    width: 9.3%;
+    background-color: #ffffff;
+  }
+
+  .text16 {
+    position: absolute;
+    left: 72%;
+    top: 531px;
+    height: 150px;
+    width: 6.3%;
+    background-color: #ffffff;
+  }

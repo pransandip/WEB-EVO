@@ -1,0 +1,78 @@
+[
+    {
+        "field1": "",
+        "field2": "1",
+        "process_name": "Startup process (Scale 0)",
+        "process_page": "/Home",
+        "scale": "0"
+    },
+    {
+        "field1": "",
+        "field2": "1",
+        "process_name": "Startup process (Scale 1)",
+        "process_page": "/Home",
+        "scale": "1"
+    },
+    {
+        "field1": "",
+        "field2": "2",
+        "process_name": "Annhme_AbfallAcceptance",
+        "process_page": "/AnnahmeAbfallAcceptanceHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "3",
+        "process_name": "Annahme_Klarschlamm",
+        "process_page": "/AnnahmeKlarschlammHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "4",
+        "process_name": "Annahme_Klarschlammasche",
+        "process_page": "/AnnahmeklarschlammascheHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "5",
+        "process_name": "Abnahme_Schlacke_Acceptance",
+        "process_page": "/AbnahmeSchlackeAcceptanceHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "6",
+        "process_name": "Annahme_Ammonia_Kwasser",
+        "process_page": "/AnnahmeAmmoniakwasserHome"
+    },
+    {
+        "field1": "",
+        "field2": "7",
+        "process_name": "Annahme_Flugasche",
+        "process_page": "/AnnahmeFlugascheHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "8",
+        "process_name": "Annahme_Kalk",
+        "process_page": "/AnnahmeKalkHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "9",
+        "process_name": "Annahme_Nabi",
+        "process_page": "/AnnahmeNabiHome",
+        "scale": "2"
+    },
+    {
+        "field1": "",
+        "field2": "10",
+        "process_name": "EVODashboard",
+        "process_page": "/DhashboardHome",
+        "scale": "2"
+    }
+]

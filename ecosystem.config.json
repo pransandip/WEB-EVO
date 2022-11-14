@@ -1,0 +1,11 @@
+{
+    "apps": [{
+        "name": "EVO",
+        "script": "npm",
+        "args": ["start"],
+        "instances": "1",
+        "wait_ready": true,
+        "autorestart": true,
+        "max_restarts": 10
+    }]
+}
